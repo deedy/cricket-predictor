@@ -1,0 +1,2209 @@
+---
+meta:
+  data_version: 0.7
+  created: 2012-07-16
+  revision: 1
+info:
+  city: Auckland
+  dates:
+    - 2008-12-26
+  gender: male
+  match_type: T20
+  outcome:
+    eliminator: West Indies
+    result: tie
+  overs: 20
+  player_of_match:
+    - CH Gayle
+  teams:
+    - New Zealand
+    - West Indies
+  toss:
+    decision: bat
+    winner: New Zealand
+  umpires:
+    - BF Bowden
+    - AL Hill
+  venue: Eden Park
+innings:
+  - 1st innings:
+      team: New Zealand
+      deliveries:
+        - 0.1:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.3:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.4:
+            batsman: BB McCullum
+            bowler: LS Baker
+            non_striker: JD Ryder
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: BB McCullum
+            bowler: LS Baker
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.6:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: BB McCullum
+            bowler: JE Taylor
+            extras:
+              wides: 1
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.2:
+            batsman: BB McCullum
+            bowler: JE Taylor
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.3:
+            batsman: BB McCullum
+            bowler: JE Taylor
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.4:
+            batsman: JD Ryder
+            bowler: JE Taylor
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 1.5:
+            batsman: BB McCullum
+            bowler: JE Taylor
+            extras:
+              wides: 1
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 1.6:
+            batsman: BB McCullum
+            bowler: JE Taylor
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.7:
+            batsman: BB McCullum
+            bowler: JE Taylor
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.8:
+            batsman: BB McCullum
+            bowler: JE Taylor
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.1:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.2:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 2.3:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: BB McCullum
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 2.4:
+            batsman: BB McCullum
+            bowler: LS Baker
+            non_striker: JD Ryder
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.5:
+            batsman: BB McCullum
+            bowler: LS Baker
+            non_striker: JD Ryder
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.6:
+            batsman: BB McCullum
+            bowler: LS Baker
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - SJ Benn
+              kind: caught
+              player_out: BB McCullum
+        - 3.1:
+            batsman: JD Ryder
+            bowler: JE Taylor
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.2:
+            batsman: JD Ryder
+            bowler: JE Taylor
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.3:
+            batsman: LRPL Taylor
+            bowler: JE Taylor
+            non_striker: JD Ryder
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 3.4:
+            batsman: JD Ryder
+            bowler: JE Taylor
+            extras:
+              wides: 1
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 3.5:
+            batsman: JD Ryder
+            bowler: JE Taylor
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.6:
+            batsman: JD Ryder
+            bowler: JE Taylor
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.7:
+            batsman: JD Ryder
+            bowler: JE Taylor
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.1:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.3:
+            batsman: JD Ryder
+            bowler: LS Baker
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.4:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            extras:
+              wides: 1
+            non_striker: JD Ryder
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 4.7:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            non_striker: JD Ryder
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 5.1:
+            batsman: JD Ryder
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: JD Ryder
+        - 5.2:
+            batsman: SB Styris
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.3:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 5.5:
+            batsman: SB Styris
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.6:
+            batsman: SB Styris
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.1:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            extras:
+              noballs: 1
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 6.2:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: SB Styris
+            bowler: LS Baker
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.5:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            non_striker: SB Styris
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 6.6:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 6.7:
+            batsman: LRPL Taylor
+            bowler: LS Baker
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.1:
+            batsman: SB Styris
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: SB Styris
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 7.3:
+            batsman: SB Styris
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.4:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.5:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.6:
+            batsman: SB Styris
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.1:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.2:
+            batsman: SB Styris
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: SB Styris
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 8.4:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: SB Styris
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 8.5:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: SB Styris
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: SB Styris
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: SB Styris
+            bowler: KA Pollard
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 9.2:
+            batsman: SB Styris
+            bowler: KA Pollard
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: SB Styris
+        - 9.3:
+            batsman: JDP Oram
+            bowler: KA Pollard
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.4:
+            batsman: LRPL Taylor
+            bowler: KA Pollard
+            non_striker: JDP Oram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.5:
+            batsman: JDP Oram
+            bowler: KA Pollard
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.6:
+            batsman: JDP Oram
+            bowler: KA Pollard
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.1:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JDP Oram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.3:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.4:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JDP Oram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JDP Oram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: JDP Oram
+            bowler: KA Pollard
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.2:
+            batsman: LRPL Taylor
+            bowler: KA Pollard
+            non_striker: JDP Oram
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 11.3:
+            batsman: LRPL Taylor
+            bowler: KA Pollard
+            non_striker: JDP Oram
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 11.4:
+            batsman: LRPL Taylor
+            bowler: KA Pollard
+            non_striker: JDP Oram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.5:
+            batsman: LRPL Taylor
+            bowler: KA Pollard
+            non_striker: JDP Oram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.6:
+            batsman: JDP Oram
+            bowler: KA Pollard
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.1:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JDP Oram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.2:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JDP Oram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.3:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.4:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JDP Oram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.6:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.1:
+            batsman: LRPL Taylor
+            bowler: CH Gayle
+            non_striker: JDP Oram
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.2:
+            batsman: LRPL Taylor
+            bowler: CH Gayle
+            extras:
+              wides: 1
+            non_striker: JDP Oram
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 13.3:
+            batsman: LRPL Taylor
+            bowler: CH Gayle
+            non_striker: JDP Oram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: JDP Oram
+            bowler: CH Gayle
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.5:
+            batsman: LRPL Taylor
+            bowler: CH Gayle
+            non_striker: JDP Oram
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: LRPL Taylor
+            bowler: CH Gayle
+            non_striker: JDP Oram
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.7:
+            batsman: JDP Oram
+            bowler: CH Gayle
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.1:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - XM Marshall
+              kind: caught
+              player_out: JDP Oram
+        - 14.2:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JEC Franklin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JEC Franklin
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: JEC Franklin
+            bowler: SJ Benn
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.5:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JEC Franklin
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 14.6:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: JEC Franklin
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.1:
+            batsman: JEC Franklin
+            bowler: CH Gayle
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: LRPL Taylor
+            bowler: CH Gayle
+            extras:
+              legbyes: 1
+            non_striker: JEC Franklin
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 15.3:
+            batsman: JEC Franklin
+            bowler: CH Gayle
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: JEC Franklin
+        - 15.4:
+            batsman: DR Flynn
+            bowler: CH Gayle
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: DR Flynn
+            bowler: CH Gayle
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.6:
+            batsman: LRPL Taylor
+            bowler: CH Gayle
+            non_striker: DR Flynn
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.1:
+            batsman: LRPL Taylor
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.2:
+            batsman: DR Flynn
+            bowler: JE Taylor
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.3:
+            batsman: LRPL Taylor
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: LRPL Taylor
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: DR Flynn
+            bowler: JE Taylor
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 16.6:
+            batsman: DR Flynn
+            bowler: JE Taylor
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: DR Flynn
+            bowler: FH Edwards
+            non_striker: LRPL Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.2:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: DR Flynn
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.3:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: DR Flynn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: DR Flynn
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 17.5:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: DR Flynn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.6:
+            batsman: LRPL Taylor
+            bowler: FH Edwards
+            non_striker: DR Flynn
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: LRPL Taylor
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.2:
+            batsman: LRPL Taylor
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.3:
+            batsman: LRPL Taylor
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: LRPL Taylor
+        - 18.4:
+            batsman: KD Mills
+            bowler: JE Taylor
+            extras:
+              wides: 1
+            non_striker: DR Flynn
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 18.5:
+            batsman: KD Mills
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.6:
+            batsman: KD Mills
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.7:
+            batsman: KD Mills
+            bowler: JE Taylor
+            non_striker: DR Flynn
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 19.1:
+            batsman: DR Flynn
+            bowler: CH Gayle
+            non_striker: KD Mills
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - FH Edwards
+              kind: caught
+              player_out: DR Flynn
+        - 19.2:
+            batsman: KD Mills
+            bowler: CH Gayle
+            non_striker: DL Vettori
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.3:
+            batsman: DL Vettori
+            bowler: CH Gayle
+            non_striker: KD Mills
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: KD Mills
+            bowler: CH Gayle
+            non_striker: DL Vettori
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.5:
+            batsman: DL Vettori
+            bowler: CH Gayle
+            non_striker: KD Mills
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.6:
+            batsman: KD Mills
+            bowler: CH Gayle
+            non_striker: DL Vettori
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+  - 2nd innings:
+      team: West Indies
+      deliveries:
+        - 0.1:
+            batsman: CH Gayle
+            bowler: KD Mills
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.2:
+            batsman: CH Gayle
+            bowler: KD Mills
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 0.3:
+            batsman: S Chanderpaul
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.4:
+            batsman: S Chanderpaul
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.5:
+            batsman: S Chanderpaul
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 0.6:
+            batsman: S Chanderpaul
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.1:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.2:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.3:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 1.4:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.5:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 1.6:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.1:
+            batsman: S Chanderpaul
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught and bowled
+              player_out: S Chanderpaul
+        - 2.2:
+            batsman: XM Marshall
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.3:
+            batsman: XM Marshall
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 2.4:
+            batsman: XM Marshall
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.5:
+            batsman: XM Marshall
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 2.6:
+            batsman: XM Marshall
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.1:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: XM Marshall
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 3.2:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: XM Marshall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.3:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: XM Marshall
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.4:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: XM Marshall
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 3.5:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: XM Marshall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 3.6:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: XM Marshall
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 4.1:
+            batsman: XM Marshall
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.2:
+            batsman: XM Marshall
+            bowler: KD Mills
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 4.3:
+            batsman: CH Gayle
+            bowler: KD Mills
+            non_striker: XM Marshall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.4:
+            batsman: CH Gayle
+            bowler: KD Mills
+            non_striker: XM Marshall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.5:
+            batsman: CH Gayle
+            bowler: KD Mills
+            non_striker: XM Marshall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 4.6:
+            batsman: CH Gayle
+            bowler: KD Mills
+            non_striker: XM Marshall
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.1:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 5.2:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 5.3:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.4:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.5:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 5.6:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.1:
+            batsman: XM Marshall
+            bowler: JS Patel
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.2:
+            batsman: CH Gayle
+            bowler: JS Patel
+            non_striker: XM Marshall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.3:
+            batsman: XM Marshall
+            bowler: JS Patel
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.4:
+            batsman: CH Gayle
+            bowler: JS Patel
+            non_striker: XM Marshall
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 6.5:
+            batsman: CH Gayle
+            bowler: JS Patel
+            non_striker: XM Marshall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 6.6:
+            batsman: XM Marshall
+            bowler: JS Patel
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.1:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.2:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.3:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 7.4:
+            batsman: XM Marshall
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 7.5:
+            batsman: CH Gayle
+            bowler: JDP Oram
+            extras:
+              legbyes: 4
+            non_striker: XM Marshall
+            runs:
+              batsman: 0
+              extras: 4
+              total: 4
+        - 7.6:
+            batsman: CH Gayle
+            bowler: JDP Oram
+            non_striker: XM Marshall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.1:
+            batsman: CH Gayle
+            bowler: JS Patel
+            non_striker: XM Marshall
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 8.2:
+            batsman: CH Gayle
+            bowler: JS Patel
+            non_striker: XM Marshall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.3:
+            batsman: XM Marshall
+            bowler: JS Patel
+            non_striker: CH Gayle
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 8.4:
+            batsman: XM Marshall
+            bowler: JS Patel
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.5:
+            batsman: CH Gayle
+            bowler: JS Patel
+            non_striker: XM Marshall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 8.6:
+            batsman: XM Marshall
+            bowler: JS Patel
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.1:
+            batsman: XM Marshall
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: XM Marshall
+        - 9.2:
+            batsman: RR Sarwan
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.3:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: RR Sarwan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.4:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            extras:
+              wides: 1
+            non_striker: RR Sarwan
+            runs:
+              batsman: 0
+              extras: 1
+              total: 1
+        - 9.5:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: RR Sarwan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 9.6:
+            batsman: RR Sarwan
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 9.7:
+            batsman: RR Sarwan
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.1:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: RR Sarwan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.2:
+            batsman: RR Sarwan
+            bowler: TG Southee
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.3:
+            batsman: RR Sarwan
+            bowler: TG Southee
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.4:
+            batsman: RR Sarwan
+            bowler: TG Southee
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 10.5:
+            batsman: RR Sarwan
+            bowler: TG Southee
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 10.6:
+            batsman: CH Gayle
+            bowler: TG Southee
+            non_striker: RR Sarwan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.1:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: RR Sarwan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.2:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: RR Sarwan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.3:
+            batsman: RR Sarwan
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.4:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: RR Sarwan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 11.5:
+            batsman: RR Sarwan
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 11.6:
+            batsman: RR Sarwan
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.1:
+            batsman: CH Gayle
+            bowler: JDP Oram
+            non_striker: RR Sarwan
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 12.2:
+            batsman: CH Gayle
+            bowler: JDP Oram
+            non_striker: RR Sarwan
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 12.3:
+            batsman: CH Gayle
+            bowler: JDP Oram
+            non_striker: RR Sarwan
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.4:
+            batsman: RR Sarwan
+            bowler: JDP Oram
+            non_striker: CH Gayle
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 12.5:
+            batsman: CH Gayle
+            bowler: JDP Oram
+            non_striker: RR Sarwan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 12.6:
+            batsman: CH Gayle
+            bowler: JDP Oram
+            non_striker: RR Sarwan
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 13.1:
+            batsman: RR Sarwan
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - DR Flynn
+              kind: caught
+              player_out: RR Sarwan
+        - 13.2:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.3:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: SE Findlay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 13.4:
+            batsman: SE Findlay
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 13.5:
+            batsman: SE Findlay
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 13.6:
+            batsman: SE Findlay
+            bowler: DL Vettori
+            non_striker: CH Gayle
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 14.1:
+            batsman: CH Gayle
+            bowler: JS Patel
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - LRPL Taylor
+              kind: caught
+              player_out: CH Gayle
+        - 14.2:
+            batsman: SE Findlay
+            bowler: JS Patel
+            non_striker: KA Pollard
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 14.3:
+            batsman: SE Findlay
+            bowler: JS Patel
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.4:
+            batsman: KA Pollard
+            bowler: JS Patel
+            non_striker: SE Findlay
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 14.5:
+            batsman: KA Pollard
+            bowler: JS Patel
+            non_striker: SE Findlay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 14.6:
+            batsman: SE Findlay
+            bowler: JS Patel
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.1:
+            batsman: SE Findlay
+            bowler: DL Vettori
+            non_striker: KA Pollard
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 15.2:
+            batsman: KA Pollard
+            bowler: DL Vettori
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.3:
+            batsman: KA Pollard
+            bowler: DL Vettori
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - JS Patel
+              kind: caught
+              player_out: KA Pollard
+        - 15.4:
+            batsman: SE Findlay
+            bowler: DL Vettori
+            non_striker: CS Baugh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 15.5:
+            batsman: SE Findlay
+            bowler: DL Vettori
+            non_striker: CS Baugh
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 15.6:
+            batsman: SE Findlay
+            bowler: DL Vettori
+            non_striker: CS Baugh
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.1:
+            batsman: CS Baugh
+            bowler: JS Patel
+            non_striker: SE Findlay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 16.2:
+            batsman: CS Baugh
+            bowler: JS Patel
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BB McCullum
+              kind: caught
+              player_out: CS Baugh
+        - 16.3:
+            batsman: SE Findlay
+            bowler: JS Patel
+            non_striker: JE Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.4:
+            batsman: SE Findlay
+            bowler: JS Patel
+            non_striker: JE Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 16.5:
+            batsman: JE Taylor
+            bowler: JS Patel
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 16.6:
+            batsman: JE Taylor
+            bowler: JS Patel
+            non_striker: SE Findlay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.1:
+            batsman: JE Taylor
+            bowler: JDP Oram
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.2:
+            batsman: JE Taylor
+            bowler: JDP Oram
+            non_striker: SE Findlay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 17.3:
+            batsman: JE Taylor
+            bowler: JDP Oram
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 17.4:
+            batsman: JE Taylor
+            bowler: JDP Oram
+            non_striker: SE Findlay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 17.5:
+            batsman: SE Findlay
+            bowler: JDP Oram
+            non_striker: JE Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 17.6:
+            batsman: SE Findlay
+            bowler: JDP Oram
+            non_striker: JE Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.1:
+            batsman: SE Findlay
+            bowler: KD Mills
+            non_striker: JE Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.2:
+            batsman: JE Taylor
+            bowler: KD Mills
+            non_striker: SE Findlay
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 18.3:
+            batsman: JE Taylor
+            bowler: KD Mills
+            non_striker: SE Findlay
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 18.4:
+            batsman: JE Taylor
+            bowler: KD Mills
+            non_striker: SE Findlay
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 18.5:
+            batsman: JE Taylor
+            bowler: KD Mills
+            non_striker: SE Findlay
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 18.6:
+            batsman: SE Findlay
+            bowler: KD Mills
+            non_striker: JE Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.1:
+            batsman: SE Findlay
+            bowler: TG Southee
+            non_striker: JE Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BB McCullum
+              kind: caught
+              player_out: SE Findlay
+        - 19.2:
+            batsman: FH Edwards
+            bowler: TG Southee
+            non_striker: JE Taylor
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+        - 19.3:
+            batsman: FH Edwards
+            bowler: TG Southee
+            non_striker: JE Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+        - 19.4:
+            batsman: JE Taylor
+            bowler: TG Southee
+            non_striker: FH Edwards
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              fielders:
+                - BB McCullum
+              kind: run out
+              player_out: FH Edwards
+        - 19.5:
+            batsman: SJ Benn
+            bowler: TG Southee
+            non_striker: JE Taylor
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 19.6:
+            batsman: SJ Benn
+            bowler: TG Southee
+            non_striker: JE Taylor
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+  - West Indies Super Over:
+      team: West Indies
+      deliveries:
+        - 0.1:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: XM Marshall
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 0.2:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: XM Marshall
+            runs:
+              batsman: 1
+              extras: 0
+              total: 1
+            wicket:
+              fielders:
+                - JEC Franklin
+                - DL Vettori
+              kind: run out
+              player_out: XM Marshall
+        - 0.3:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 0.4:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 0.5:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 4
+              extras: 0
+              total: 4
+        - 0.6:
+            batsman: CH Gayle
+            bowler: DL Vettori
+            non_striker: S Chanderpaul
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+  - New Zealand Super Over:
+      team: New Zealand
+      deliveries:
+        - 0.1:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: BB McCullum
+            runs:
+              batsman: 6
+              extras: 0
+              total: 6
+        - 0.2:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: BB McCullum
+            runs:
+              batsman: 2
+              extras: 0
+              total: 2
+        - 0.3:
+            batsman: JDP Oram
+            bowler: SJ Benn
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: caught
+              player_out: JDP Oram
+        - 0.4:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            extras:
+              noballs: 1
+            non_striker: BB McCullum
+            runs:
+              batsman: 6
+              extras: 1
+              total: 7
+        - 0.5:
+            batsman: LRPL Taylor
+            bowler: SJ Benn
+            non_striker: BB McCullum
+            runs:
+              batsman: 0
+              extras: 0
+              total: 0
+            wicket:
+              kind: bowled
+              player_out: LRPL Taylor
